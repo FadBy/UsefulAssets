@@ -1,0 +1,5 @@
+{
+    "ReceiverPort": 7000,
+    "OSCAddress": "/bikes/tachometer_0",
+    "StandByTime": 60
+}
